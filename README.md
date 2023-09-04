@@ -1,6 +1,6 @@
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 Используемые технологии: HTML, CSS, Javascript, Git.
-Ссылка на githubPage: https://github.com/tudastuk/js-cp-diploma-edited
+Ссылка на githubPage: https://tudastuk.github.io/js-cp-diploma-edited
 
 ## Создание «информационной системы для предварительного бронирования билетов».
 
